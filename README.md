@@ -124,4 +124,4 @@ The release notes, see our [RELEASE](RELEASE.md).
 [Apache License 2.0](LICENSE)
 
 
-test scanoss
+test scanoss 2020.3.31
